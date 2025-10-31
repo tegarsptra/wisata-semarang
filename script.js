@@ -1,28 +1,28 @@
 const places = [
   {
     name: "Lawang Sewu",
-    image: "images/lawangsewu.jpg",
+    image: "lawangsewu.jpg",
     desc: "Bangunan bersejarah dengan arsitektur kolonial Belanda yang megah.",
   },
   {
     name: "Kota Lama",
-    image: "images/kotalama.jpg",
-    desc: "Kawasan dengan bangunan kuno yang menjadi saksi sejarah kolonial di Semarang.",
+    image: "kotalama.jpg",
+    desc: "Kawasan dengan bangunan kuno peninggalan masa kolonial Belanda, cocok untuk wisata foto.",
   },
   {
     name: "Sam Poo Kong",
-    image: "images/sampookong.jpg",
+    image: "sampookong.jpg",
     desc: "Klenteng megah dengan nilai sejarah dan budaya Tionghoa yang kuat.",
   },
   {
     name: "Masjid Agung Jawa Tengah (MAJT)",
-    image: "images/majt.jpg",
+    image: "majt.jpg",
     desc: "Masjid terbesar di Semarang dengan menara tinggi dan pemandangan indah.",
   },
   {
     name: "Brown Canyon",
-    image: "images/browncanyon.jpg",
-    desc: "Destinasi unik dengan tebing batu tinggi hasil bekas galian yang mirip Grand Canyon.",
+    image: "browncanyon.jpg",
+    desc: "Destinasi unik dengan tebing batu hasil bekas galian yang mirip Grand Canyon.",
   },
 ];
 
